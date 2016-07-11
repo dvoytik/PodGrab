@@ -1,3 +1,14 @@
+FAQ
+===
+
+How to download whole RSS podcast?
+---------------------------------
+
+```bash
+python3 ./PodGrab.py -d http://cool-podcast.com/rss.xml
+````
+
+
 ==== PODGRAB =====
 
 A Python command line audio/video podcast downloader for RSS XML feeds.
