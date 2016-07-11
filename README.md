@@ -9,7 +9,8 @@ python3 ./PodGrab.py -d http://cool-podcast.com/rss.xml
 ````
 
 
-==== PODGRAB =====
+PODGRAB
+=======
 
 A Python command line audio/video podcast downloader for RSS XML feeds.
 Supported RSS item file types: MP3, M4V, OGG, FLV, MP4, MPG/MPEG, WMA, WMV, WEBM
